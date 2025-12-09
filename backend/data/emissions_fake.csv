@@ -1,0 +1,133 @@
+year,sector,industry,region,emissions_tCO2e
+2015,Energy,Power plants,Global,662954
+2015,Energy,Oil & Gas,Global,830000
+2015,Transport,Aviation,Global,202425
+2015,Transport,Road,Global,281501
+2015,Transport,Shipping,Global,325349
+2015,Industry,Steel,Global,179791
+2015,Industry,Cement,Global,328844
+2015,Industry,Chemicals,Global,438679
+2015,Agriculture,Livestock,Global,340117
+2015,Agriculture,Crop burning,Global,333834
+2015,Buildings,Residential,Global,145048
+2015,Buildings,Commercial,Global,356591
+2016,Energy,Power plants,Global,1353645
+2016,Energy,Oil & Gas,Global,2196553
+2016,Transport,Aviation,Global,420804
+2016,Transport,Road,Global,183574
+2016,Transport,Shipping,Global,230569
+2016,Industry,Steel,Global,127928
+2016,Industry,Cement,Global,100298
+2016,Industry,Chemicals,Global,194034
+2016,Agriculture,Livestock,Global,367772
+2016,Agriculture,Crop burning,Global,133575
+2016,Buildings,Residential,Global,297286
+2016,Buildings,Commercial,Global,349205
+2017,Energy,Power plants,Global,917562
+2017,Energy,Oil & Gas,Global,1441415
+2017,Transport,Aviation,Global,235166
+2017,Transport,Road,Global,278805
+2017,Transport,Shipping,Global,297545
+2017,Industry,Steel,Global,341770
+2017,Industry,Cement,Global,307901
+2017,Industry,Chemicals,Global,293850
+2017,Agriculture,Livestock,Global,220503
+2017,Agriculture,Crop burning,Global,240307
+2017,Buildings,Residential,Global,151848
+2017,Buildings,Commercial,Global,435906
+2018,Energy,Power plants,Global,1194847
+2018,Energy,Oil & Gas,Global,2033568
+2018,Transport,Aviation,Global,258084
+2018,Transport,Road,Global,301676
+2018,Transport,Shipping,Global,188312
+2018,Industry,Steel,Global,288391
+2018,Industry,Cement,Global,129222
+2018,Industry,Chemicals,Global,188103
+2018,Agriculture,Livestock,Global,255469
+2018,Agriculture,Crop burning,Global,130768
+2018,Buildings,Residential,Global,149030
+2018,Buildings,Commercial,Global,222286
+2019,Energy,Power plants,Global,1120555
+2019,Energy,Oil & Gas,Global,1494203
+2019,Transport,Aviation,Global,361076
+2019,Transport,Road,Global,310537
+2019,Transport,Shipping,Global,229707
+2019,Industry,Steel,Global,276439
+2019,Industry,Cement,Global,239105
+2019,Industry,Chemicals,Global,165876
+2019,Agriculture,Livestock,Global,233648
+2019,Agriculture,Crop burning,Global,139279
+2019,Buildings,Residential,Global,124938
+2019,Buildings,Commercial,Global,213166
+2020,Energy,Power plants,Global,832983
+2020,Energy,Oil & Gas,Global,1051237
+2020,Transport,Aviation,Global,181365
+2020,Transport,Road,Global,378428
+2020,Transport,Shipping,Global,156323
+2020,Industry,Steel,Global,184306
+2020,Industry,Cement,Global,250031
+2020,Industry,Chemicals,Global,305523
+2020,Agriculture,Livestock,Global,209408
+2020,Agriculture,Crop burning,Global,311729
+2020,Buildings,Residential,Global,322355
+2020,Buildings,Commercial,Global,222967
+2021,Energy,Power plants,Global,788762
+2021,Energy,Oil & Gas,Global,2128195
+2021,Transport,Aviation,Global,129075
+2021,Transport,Road,Global,163857
+2021,Transport,Shipping,Global,204661
+2021,Industry,Steel,Global,218783
+2021,Industry,Cement,Global,334183
+2021,Industry,Chemicals,Global,191828
+2021,Agriculture,Livestock,Global,320693
+2021,Agriculture,Crop burning,Global,98196
+2021,Buildings,Residential,Global,198057
+2021,Buildings,Commercial,Global,345764
+2022,Energy,Power plants,Global,1557971
+2022,Energy,Oil & Gas,Global,1526584
+2022,Transport,Aviation,Global,255521
+2022,Transport,Road,Global,222842
+2022,Transport,Shipping,Global,175810
+2022,Industry,Steel,Global,383494
+2022,Industry,Cement,Global,215914
+2022,Industry,Chemicals,Global,332296
+2022,Agriculture,Livestock,Global,195345
+2022,Agriculture,Crop burning,Global,243473
+2022,Buildings,Residential,Global,336372
+2022,Buildings,Commercial,Global,353656
+2023,Energy,Power plants,Global,2101375
+2023,Energy,Oil & Gas,Global,1528533
+2023,Transport,Aviation,Global,487653
+2023,Transport,Road,Global,152479
+2023,Transport,Shipping,Global,337854
+2023,Industry,Steel,Global,223665
+2023,Industry,Cement,Global,430055
+2023,Industry,Chemicals,Global,141132
+2023,Agriculture,Livestock,Global,128465
+2023,Agriculture,Crop burning,Global,504600
+2023,Buildings,Residential,Global,227520
+2023,Buildings,Commercial,Global,307428
+2024,Energy,Power plants,Global,1384678
+2024,Energy,Oil & Gas,Global,1743015
+2024,Transport,Aviation,Global,158601
+2024,Transport,Road,Global,505526
+2024,Transport,Shipping,Global,308063
+2024,Industry,Steel,Global,163262
+2024,Industry,Cement,Global,349782
+2024,Industry,Chemicals,Global,290696
+2024,Agriculture,Livestock,Global,174223
+2024,Agriculture,Crop burning,Global,352407
+2024,Buildings,Residential,Global,231108
+2024,Buildings,Commercial,Global,123787
+2025,Energy,Power plants,Global,1470136
+2025,Energy,Oil & Gas,Global,1197959
+2025,Transport,Aviation,Global,454514
+2025,Transport,Road,Global,162987
+2025,Transport,Shipping,Global,97455
+2025,Industry,Steel,Global,533912
+2025,Industry,Cement,Global,213872
+2025,Industry,Chemicals,Global,303656
+2025,Agriculture,Livestock,Global,236679
+2025,Agriculture,Crop burning,Global,303876
+2025,Buildings,Residential,Global,265035
+2025,Buildings,Commercial,Global,338385

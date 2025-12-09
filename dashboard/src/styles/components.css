@@ -1,0 +1,114 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.chat-panel-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  gap: 12px;
+  box-sizing: border-box;
+}
+
+.chat-messages-container {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 12px;
+  background: #fafafa;
+  border-radius: 8px;
+  border: 1px solid #e6e6e6;
+}
+
+.chat-message {
+  display: flex;
+  width: 100%;
+  gap: 8px;
+}
+
+.chat-bubble {
+  display: inline-block;
+  max-width: calc(100% - 20px); 
+  width: fit-content;
+  padding: 10px 14px;
+  border-radius: 10px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  line-height: 1.4;
+  font-size: 0.95rem;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+
+.chat-message.user {
+  justify-content: flex-end;
+}
+.chat-message.user .chat-bubble {
+  background: #dbeeff;
+  border: 1px solid #a3d0f7;
+  color: #04263b;
+}
+
+.chat-message.assistant {
+  justify-content: flex-start;
+}
+.chat-message.assistant .chat-bubble {
+  background: #f2f2f2;
+  border: 1px solid #dedede;
+  color: #0f172a;
+}
+
+.citations {
+  margin-top: 8px;
+  font-size: 0.85rem;
+}
+.citations ul {
+  padding-left: 18px;
+  margin: 4px 0 0;
+}
+
+.chat-input {
+  width: 100%;
+  max-width: 100%;
+  border-radius: 8px;
+  border: 1px solid #444;
+  padding: 10px;
+  box-sizing: border-box;
+  resize: vertical;
+  font-size: 14px;
+}
+
+.button-primary {
+  background: #2b6cb0;
+  color: #fff;
+  padding: 10px;
+  border-radius: 6px;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.chat-container-wrapper,
+.chat-panel-container {
+  overflow: hidden;
+}
+
+@media (max-width: 900px) {
+  .chat-bubble { font-size: 0.92rem; max-width: calc(100% - 48px); }
+  .chat-messages-container { padding: 10px; }
+  .button-primary { padding: 8px; }
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 12px;
+}
+.filter-group label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
